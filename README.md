@@ -1,16 +1,10 @@
-# mood_tracker
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+MoodMate 📱
+MoodMate is a specialized mobile application for mood tracking and daily journaling. The app empowers users to monitor their emotional patterns and enhance self-awareness through an intuitive interface featuring emoji selections and reflective entries.
+Project Team 👥This project was successfully developed through the collaboration of our dedicated team:
+Iman Abdulshakur (إيمان عبد الشكور)
+Maryam Mudub (مريم مودوب فاقبو)
+Nuha Saleh (نهى صالح حامد)
+Leen Amer (لين عامر خضر شحادة)
+Ahad Al-Qahtani (عهد درع القحطاني)
+Technical Specifications 🛠️Framework: Developed using Flutter for a seamless cross-platform experience.State Management: Utilizes Local State Management with setState() for immediate UI responsiveness.Navigation: Implements Named Routing to ensure an organized screen flow.Integrated Services: Features Firebase integration, Notification Services, and Hive for efficient local data storage.
+Design Philosophy ✨Calm Aesthetic: Used soothing colors to reduce stress and align with mental well-being goals.User-Centric UI: Simplified interfaces to prevent visual pressure and ensure ease of use.Insightful History: Includes a History Screen for browsing past entries and identifying emotional trends.
